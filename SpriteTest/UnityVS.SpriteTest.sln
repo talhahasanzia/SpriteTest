@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.SpriteTest.CSharp", "UnityVS.SpriteTest.CSharp.csproj", "{B00AA627-8243-BDB2-330C-8404C0FF627E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00AA627-8243-BDB2-330C-8404C0FF627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00AA627-8243-BDB2-330C-8404C0FF627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00AA627-8243-BDB2-330C-8404C0FF627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00AA627-8243-BDB2-330C-8404C0FF627E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
